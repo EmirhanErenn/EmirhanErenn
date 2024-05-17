@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Emirhan!
+- 👀 I’m interested in Flutter and Web Development!
+- 🌱 I’m currently learning Flutter and Phyton
