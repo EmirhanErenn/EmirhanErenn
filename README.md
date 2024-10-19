@@ -15,8 +15,3 @@ A passionate software developer from Turkey 🇹🇷
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### GitHub Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emirhan&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emirhan&show_icons=true&theme=dark)
