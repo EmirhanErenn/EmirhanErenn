@@ -1,5 +1,5 @@
 # Hi 👋, I'm Emirhan  
-A passionate software developer from Turkey 🇹🇷
+A passionate software developer from Turkey - Latvia
 
 - 🌱 I’m currently working on **C#, Flutter, Web Development**
 - 📫 How to reach me: **emirhanneren24@gmail.com**
