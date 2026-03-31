@@ -1,17 +1,40 @@
-# Hi 👋, I'm Emirhan  
-A passionate software developer from Turkey - Latvia
+# Hi 👋, I'm Emirhan Eren
 
-- 🌱 I’m currently working on **C#, Flutter, Web Development**
-- 📫 How to reach me: **emirhanneren24@gmail.com**
-- 🧑‍💻 LinkedIn: [Emirhan Eren](https://www.linkedin.com/in/emirhan-eren-823884295/)
+### 🚀 Computer Engineering Student & Full-Stack Developer
+Bridging academic excellence from **Turkey** 🇹🇷 to **Latvia** 🇱🇻.
 
-### Languages and Tools:
+- 🎓 **Education:** - Computer Programming Graduate (**Dokuz Eylül University**)
+  - B.Sc. Computer Engineering Student (**Riga Technical University**)
+- 💼 **Experience:** Currently contributing to 2 active projects and managing multiple freelance web solutions.
+- 🌐 **Portfolio:** Check out my work at [emirhaneren.com.tr](https://emirhaneren.com.tr)
+- 🌱 **Tech Stack:** Specialized in **C#, Flutter, and Modern Web Technologies (PHP/MySQL)**.
+- 📫 **Contact:** [emirhanneren24@gmail.com](mailto:emirhanneren24@gmail.com)
+- 🧑‍💻 **Networking:** [LinkedIn Profile](https://www.linkedin.com/in/emirhan-eren-823884295/)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+---
+
+### 🛠 Languages and Tools:
+
+<p align="left">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+### 📊 My GitHub Stats:
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emirhanneren&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanneren&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🤝 Let's Collaborate!
+If you have an idea for a project or just want to chat about tech, feel free to reach out. I am open to **freelance opportunities** and **collaborative open-source projects**.
