@@ -9,7 +9,7 @@ Bridging academic excellence from **Turkey** 🇹🇷 to **Latvia** 🇱🇻.
 - 🌐 **Portfolio:** Check out my work at [emirhaneren.com.tr](https://emirhaneren.com.tr)
 - 🌱 **Tech Stack:** Specialized in **C#, Flutter, and Modern Web Technologies (PHP/MySQL)**.
 - 📫 **Contact:** [emirhanneren24@gmail.com](mailto:emirhanneren24@gmail.com)
-- 🧑‍💻 **Networking:** [LinkedIn Profile](https://www.linkedin.com/in/emirhan-eren-823884295/)
+- 🧑‍💻 **Networking:** [Emirhan Eren](https://www.linkedin.com/in/emirhan-eren-823884295/)
 
 ---
 
@@ -24,14 +24,6 @@ Bridging academic excellence from **Turkey** 🇹🇷 to **Latvia** 🇱🇻.
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-### 📊 My GitHub Stats:
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmirhanErenn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirhanErenn&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
